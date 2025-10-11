@@ -1,12 +1,13 @@
-## Hi there 👋
+# Overview
+[Termix](https://github.com/LukeGus/Termix) is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+Here, you can find the repositories for the main Termix server, along with the mobile app, documentation, and support.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Links
+- [Donate](https://github.com/sponsors/LukeGus)
+- [Docs](https://docs.termix.site/)
+- [Support](https://github.com/Termix-SSH/Support)
+---
+- [Main Repository](https://github.com/LukeGus/Termix)
+- [Mobile Repository](https://github.com/Termix-SSH/Mobile)
+- [Documentation Repository](https://github.com/Termix-SSH/Docs)
+- [Support Repository](https://github.com/Termix-SSH/Support)
