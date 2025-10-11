@@ -7,7 +7,9 @@ please consider donating with the link below or giving the [Termix](https://gith
 - [Donate](https://github.com/sponsors/LukeGus)
 - [Docs](https://docs.termix.site/)
 - [Support](https://github.com/Termix-SSH/Support)
+  
 ---
+
 - [Main Repository](https://github.com/LukeGus/Termix)
 - [Mobile Repository](https://github.com/Termix-SSH/Mobile)
 - [Documentation Repository](https://github.com/Termix-SSH/Docs)
