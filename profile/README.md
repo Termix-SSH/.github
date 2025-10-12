@@ -4,12 +4,13 @@ Here, you can find the repositories for the main Termix server, along with the m
 please consider donating with the link below or giving the [Termix](https://github.com/LukeGus/Termix) repository a star. Thank you!
 
 # Links
+#### Info
 - [Donate](https://github.com/sponsors/LukeGus)
 - [Docs](https://docs.termix.site/)
 - [Support](https://github.com/Termix-SSH/Support)
   
 ---
-
+#### Repositories
 - [Main Repository](https://github.com/LukeGus/Termix)
 - [Mobile Repository](https://github.com/Termix-SSH/Mobile)
 - [Documentation Repository](https://github.com/Termix-SSH/Docs)
