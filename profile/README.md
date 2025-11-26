@@ -14,7 +14,6 @@ please consider donating with the link below or giving the [Termix](https://gith
 #### Repositories
 - [Main Repository](https://github.com/LukeGus/Termix)
 - [Mobile Repository](https://github.com/Termix-SSH/Mobile)
-- [Desktop Repository](https://github.com/Termix-SSH/Desktop) (does not contain source code, use the main Termix repo for that)
 - [Documentation Repository](https://github.com/Termix-SSH/Docs)
 - [Support Repository](https://github.com/Termix-SSH/Support)
 
