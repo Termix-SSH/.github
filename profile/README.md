@@ -9,6 +9,7 @@ please consider donating with the link below or giving the [Termix](https://gith
 - [Docs](https://docs.termix.site/)
 - [Support](https://github.com/Termix-SSH/Support)
 - [Discord](https://discord.gg/jVQGdvHDrf)
+- [YouTube](https://www.youtube.com/@TermixSSH)
   
 ---
 #### Repositories
