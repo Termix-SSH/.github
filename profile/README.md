@@ -1,7 +1,6 @@
 # Overview
 [Termix](https://github.com/LukeGus/Termix) is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
-Here, you can find the repositories for the main Termix server, along with the mobile app, documentation, and support. If you enjoy using Termix,
-please consider donating with the link below or giving the [Termix](https://github.com/LukeGus/Termix) repository a star. Thank you!
+Here, you can find the repositories for the main Termix server, along with the mobile app, documentation, and support.
 
 # Links
 #### Info
