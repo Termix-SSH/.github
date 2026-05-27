@@ -1,18 +1,40 @@
 <div align="center">
 
-<h1>Hey, I'm Luke</h1>
+<img src="https://raw.githubusercontent.com/Termix-SSH/Termix/main/public/icon.svg" width="120" height="120" alt="Termix Logo" />
 
-<p>Full-stack web developer based in the United States</p>
+<h1>Termix</h1>
+
+<p>Self-hosted SSH management and remote desktop access</p>
+
+<p>
+  <a href="https://discord.gg/jVQGdvHDrf"><img alt="Discord" src="https://img.shields.io/discord/1347374268253470720?color=F39044&labelColor=1a1a1a" /></a>
+</p>
 
 </div>
 
 <br />
 
-## About
+## Overview
 
-I'm currently working on [Termix](https://github.com/LukeGus/Termix), a web-based server management platform with SSH and remote desktop capabiltiies
+[Termix](https://github.com/LukeGus/Termix) is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. Here, you can find the repositories for the main Termix server, along with the mobile app, documentation, and support.
 
-Feel free to reach out at `mail@termix.site`
+<br />
+
+## Links
+
+#### Info
+- [Docs](https://docs.termix.site/)
+- [Support](https://github.com/Termix-SSH/Support)
+- [Discord](https://discord.gg/jVQGdvHDrf)
+- [YouTube](https://www.youtube.com/@TermixSSH)
+
+---
+
+#### Repositories
+- [Main Repository](https://github.com/LukeGus/Termix)
+- [Mobile Repository](https://github.com/Termix-SSH/Mobile)
+- [Documentation Repository](https://github.com/Termix-SSH/Docs)
+- [Support Repository](https://github.com/Termix-SSH/Support)
 
 <br />
 
@@ -51,3 +73,9 @@ Feel free to reach out at `mail@termix.site`
 </a>
 
 </div>
+
+<br />
+
+## Support
+
+If you need help or want to request a feature with Termix, visit the [Issues](https://github.com/Termix-SSH/Support/issues) page, log in, and press `New Issue`. Please be as detailed as possible in your issue, preferably written in English. You can also join the [Discord](https://discord.gg/jVQGdvHDrf) server and visit the support channel, however, response times may be longer.
