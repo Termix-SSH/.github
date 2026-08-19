@@ -40,7 +40,7 @@
 - [Mobile Repository](https://github.com/Termix-SSH/Mobile)
 - [Documentation Repository](https://github.com/Termix-SSH/Docs)
 - [Support Repository](https://github.com/Termix-SSH/Support)
-- [CLI](https://github.com/Termix-SSH/CLI)
+- [CLI Repository](https://github.com/Termix-SSH/CLI)
 
 <br />
 
