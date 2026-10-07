@@ -35,6 +35,7 @@ Want to try it first? Use the [demo](https://demo.termix.site/). Any username an
 - [Support](https://github.com/Termix-SSH/Support)
 - [Discord](https://discord.gg/jVQGdvHDrf)
 - [YouTube](https://www.youtube.com/@TermixSSH)
+- [Twitter](https://x.com/TermixSSH)
 
 ---
 
