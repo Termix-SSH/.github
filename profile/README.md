@@ -32,7 +32,7 @@ Want to try it first? Use the [demo](https://demo.termix.site/). Any username an
 #### Info
 - [Docs](https://docs.termix.site/)
 - [Demo](https://demo.termix.site/)
-- [Support](https://github.com/Termix-SSH/Support)
+- [Support](https://github.com/Termix-SSH/.github/blob/main/SUPPORT.md)
 - [Discord](https://discord.gg/jVQGdvHDrf)
 - [YouTube](https://www.youtube.com/@TermixSSH)
 - [Twitter](https://x.com/TermixSSH)
@@ -45,7 +45,6 @@ Want to try it first? Use the [demo](https://demo.termix.site/). Any username an
 - [CLI](https://github.com/Termix-SSH/CLI)
 - [Docs](https://github.com/Termix-SSH/Docs)
 - [Demo](https://github.com/Termix-SSH/Demo)
-- [Support](https://github.com/Termix-SSH/Support)
 
 ---
 
@@ -111,4 +110,4 @@ Interested in a paid placement to support development? Email [mail@termix.site](
 
 ## Support
 
-If you need help or want to request a feature with Termix, visit the [Issues](https://github.com/Termix-SSH/Support/issues) page, log in, and press `New Issue`. Please be as detailed as possible in your issue, preferably written in English. You can also join the [Discord](https://discord.gg/jVQGdvHDrf) server and visit the support channel, however, response times may be longer.
+Every repo handles its own issues. Bugs and ideas for Termix itself go in [Termix](https://github.com/Termix-SSH/Termix/issues/new/choose), and plugin problems go in that plugin's `Plugin-<Name>` repo. [SUPPORT.md](https://github.com/Termix-SSH/.github/blob/main/SUPPORT.md) has the full list. Not sure where it goes? Open it in Termix and it will be moved. For questions, join the [Discord](https://discord.gg/jVQGdvHDrf) server.
