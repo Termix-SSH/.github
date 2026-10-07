@@ -4,7 +4,7 @@
 
 <h1>Termix</h1>
 
-<p>Self-hosted SSH management and remote desktop access</p>
+<p>Self-hosted, plugin-based server management</p>
 
 <p>
   <a href="https://discord.gg/jVQGdvHDrf"><img alt="Discord" src="https://img.shields.io/discord/1347374268253470720?color=F39044&labelColor=1a1a1a" /></a>
@@ -21,7 +21,9 @@
 
 ## Overview
 
-[Termix](https://github.com/LukeGus/Termix) is a self-hosted SSH and remote desktop management tool. Here, you can find the repositories for the main Termix server, along with the mobile app, documentation, and support.
+[Termix](https://github.com/Termix-SSH/Termix) is self-hosted, plugin-based server management. The core keeps your hosts, credentials, users and sharing, and plugins add the SSH terminal, remote desktop, file manager, Docker, metrics and more. Each official plugin lives in its own `Plugin-<Name>` repo here.
+
+Want to try it first? Use the [demo](https://demo.termix.site/). Any username and password works.
 
 <br />
 
@@ -29,6 +31,7 @@
 
 #### Info
 - [Docs](https://docs.termix.site/)
+- [Demo](https://demo.termix.site/)
 - [Support](https://github.com/Termix-SSH/Support)
 - [Discord](https://discord.gg/jVQGdvHDrf)
 - [YouTube](https://www.youtube.com/@TermixSSH)
@@ -36,11 +39,20 @@
 ---
 
 #### Repositories
-- [Main Repository](https://github.com/LukeGus/Termix)
-- [Mobile Repository](https://github.com/Termix-SSH/Mobile)
-- [Documentation Repository](https://github.com/Termix-SSH/Docs)
-- [Support Repository](https://github.com/Termix-SSH/Support)
-- [CLI Repository](https://github.com/Termix-SSH/CLI)
+- [Termix](https://github.com/Termix-SSH/Termix)
+- [Mobile](https://github.com/Termix-SSH/Mobile)
+- [CLI](https://github.com/Termix-SSH/CLI)
+- [Docs](https://github.com/Termix-SSH/Docs)
+- [Demo](https://github.com/Termix-SSH/Demo)
+- [Support](https://github.com/Termix-SSH/Support)
+
+---
+
+#### Plugins
+- [Plugin Registry](https://github.com/Termix-SSH/Termix-Registry)
+- [Plugin Template](https://github.com/Termix-SSH/Termix-Plugin-Template)
+- [Plugin SDK](https://www.npmjs.com/package/@termix-ssh/plugin-sdk)
+- Every official plugin is listed in the [Termix README](https://github.com/Termix-SSH/Termix#plugins)
 
 <br />
 
