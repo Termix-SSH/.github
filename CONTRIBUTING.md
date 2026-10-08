@@ -7,7 +7,7 @@ Thanks for helping out. This is the default guide for every Termix-SSH repo. If 
 - Check the open issues and pull requests first so you don't duplicate work.
 - For anything bigger than a small fix, open an issue first so we can agree on the approach.
 - Security problems go through the Security tab, not issues. See [SECURITY.md](https://github.com/Termix-SSH/.github/blob/main/SECURITY.md).
-- Translations are done on [Crowdin](https://docs.termix.site/translations), not through pull requests.
+- For text changes, only update the English `en.json`. Other languages are translated automatically. If an automatic translation is wrong, you can fix it in that language's file.
 
 ## Setup
 

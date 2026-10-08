@@ -30,4 +30,3 @@ _(Optional: add before/after screenshots, GIFs, or console output)_
 - [ ] Tests pass and new code has tests
 - [ ] Added the change to `CHANGELOG.md` (if the repo has one)
 - [ ] I have read the repo's `CONTRIBUTING.md`
-- [ ] This is not a translation request. See the [docs](https://docs.termix.site/translations)
