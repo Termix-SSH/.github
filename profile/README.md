@@ -49,7 +49,7 @@ Want to try it first? Use the [demo](https://demo.termix.site/). Any username an
 ---
 
 #### Plugins
-- [Plugin Registry](https://github.com/Termix-SSH/Termix-Registry)
+- [Plugin Registry](https://github.com/Termix-SSH/Termix-Registry), where you can [submit your plugin](https://github.com/Termix-SSH/Termix-Registry/blob/main/CONTRIBUTING.md) to the community registry
 - [Plugin Template](https://github.com/Termix-SSH/Termix-Plugin-Template)
 - [Plugin SDK](https://www.npmjs.com/package/@termix-ssh/plugin-sdk)
 - Every official plugin is listed in the [Termix README](https://github.com/Termix-SSH/Termix#plugins)
