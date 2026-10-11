@@ -4,7 +4,7 @@
 
 Please do not open a public issue for security problems.
 
-Report it privately from the Security tab of the repo the problem is in, using **Report a vulnerability**. This creates a GitHub security advisory that only you and the maintainers can see.
+Report it privately from the Security tab of the repo the problem is in, using Report a vulnerability. This creates a GitHub security advisory that only you and the maintainers can see.
 
 Include what is affected, the version you tested, and steps to reproduce it if you can.
 
