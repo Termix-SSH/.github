@@ -30,6 +30,7 @@ Want to try it first? Use the [demo](https://demo.termix.site/). Any username an
 ## Links
 
 #### Info
+
 - [Docs](https://docs.termix.site/)
 - [Demo](https://demo.termix.site/)
 - [Support](https://github.com/Termix-SSH/.github/blob/main/SUPPORT.md)
@@ -40,6 +41,7 @@ Want to try it first? Use the [demo](https://demo.termix.site/). Any username an
 ---
 
 #### Repositories
+
 - [Termix](https://github.com/Termix-SSH/Termix)
 - [Mobile](https://github.com/Termix-SSH/Mobile)
 - [CLI](https://github.com/Termix-SSH/CLI)
@@ -49,6 +51,7 @@ Want to try it first? Use the [demo](https://demo.termix.site/). Any username an
 ---
 
 #### Plugins
+
 - [Plugin Registry](https://github.com/Termix-SSH/Termix-Registry), where you can [submit your plugin](https://github.com/Termix-SSH/Termix-Registry/blob/main/CONTRIBUTING.md) to the community registry
 - [Plugin Template](https://github.com/Termix-SSH/Termix-Plugin-Template)
 - [Plugin SDK](https://www.npmjs.com/package/@termix-ssh/plugin-sdk)
@@ -58,7 +61,7 @@ Want to try it first? Use the [demo](https://demo.termix.site/). Any username an
 
 ## Sponsors
 
-Interested in a paid placement to support development? Email [mail@termix.site](mailto:mail@termix.site).
+For a paid sponsor spot, email [mail@termix.site](mailto:mail@termix.site).
 
 <!-- SPONSORS:START -->
 
